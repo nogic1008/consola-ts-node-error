@@ -1,0 +1,1 @@
+# consola-ts-node-error
