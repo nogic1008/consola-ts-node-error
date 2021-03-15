@@ -1,0 +1,8 @@
+{
+  "name": "consola-ts-node-error",
+  "version": "1.0.0",
+  "repository": "https://github.com/nogic1008/consola-ts-node-error.git",
+  "author": "nogic <24802730+nogic1008@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
