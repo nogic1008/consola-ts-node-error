@@ -4,5 +4,10 @@
   "repository": "https://github.com/nogic1008/consola-ts-node-error.git",
   "author": "nogic <24802730+nogic1008@users.noreply.github.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "consola": "^2.15.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  }
 }
